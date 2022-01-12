@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Environmental and Energy Policy"
 collection: teaching
-type: "Workshop"
+type: "Graduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "City University of Hong Kong, School of Energy and Environment"
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Theoretical frameworks and empirical studies are introduced to understand policy instruments for environmental protection and energy security with their impacts on promoting innovations. The effects of environmental policy on industrial competitiveness are explored with implications for the current discussions on how to achieve green growth.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
