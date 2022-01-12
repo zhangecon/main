@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Energy and Environmental Economics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "City University of Hong Kong, School of Energy and Environment"
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course aims to initiate students into the fields of energy and environmental economics and the economics of collectively shared resources. Students will become conversant with the language and methods of energy and environmental economics and be able to create applications of these methods to real-world problems.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
