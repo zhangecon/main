@@ -8,4 +8,3 @@ location: "City, Country"
 ---
 
 This course aims to initiate students into the fields of energy and environmental economics and the economics of collectively shared resources. Students will become conversant with the language and methods of energy and environmental economics and be able to create applications of these methods to real-world problems.
-
