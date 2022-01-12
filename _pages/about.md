@@ -12,13 +12,10 @@ Dr. Lin Zhang is an Assistant Professor (with tenure track) in the School of Ene
 
 Research Interests
 ------
-Energy & Sustainability Economics
-
-Policy for Sustainable Resource Use 
-
-Green Business & Finance
-
-Economic Development under Climate Risks
+* Energy & Sustainability Economics
+* Policy for Sustainable Resource Use 
+* Green Business & Finance
+* Economic Development under Climate Risks
 
 Publication list
 ------
