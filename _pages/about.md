@@ -20,7 +20,7 @@ Green Business & Finance
 
 Economic Development under Climate Risks
 
-Key words
+Publication list
 ------
-Energy Economics, Energy Policy, Environmental Management, Sustainability, Green Growth, Efficiency Analysis (DEA and SFA), Numerical Simulation (CGE), Climate finance, Innovation
+Please check my publication record: [HERE](https://lzhanghk.wixsite.com/econ/articles)
 
