@@ -10,7 +10,7 @@ redirect_from:
 
 Dr. Lin Zhang is an Assistant Professor (with tenure track) in the School of Energy and Environment at City University of Hong Kong, with a joint appointment in the Department of Public Policy, College of Liberal Arts and Social Sciences. His primary research focuses on energy economics. In his ultimate pursuit of regional sustainable development, his work utilizes economic methods to seek policy solutions to sustainability from interdisciplinary lenses.
 
-Research Interests / 研究兴趣
+Research Interests
 ------
 Energy & Sustainability Economics
 
