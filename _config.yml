@@ -85,7 +85,7 @@ author:
   bio              : "An Energy Economist"
   location         : 
   employer         : "City University of Hong Kong"
-  CityU Scholar    : "https://scholars.cityu.edu.hk/en/persons/lin-zhang(82d36211-2260-4aa7-9419-aa6e663fdaf6).html"
+  url              : "https://scholars.cityu.edu.hk/en/persons/lin-zhang(82d36211-2260-4aa7-9419-aa6e663fdaf6).html"
   email            : "l.zhang@cityu.edu.hk"
   googlescholar    : "https://scholar.google.com/citations?user=9qpMwO4AAAAJ&hl=zh-CN"
   researchgate     : "https://www.researchgate.net/profile/Lin-Zhang-34"
@@ -99,13 +99,11 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/0000-0002-5945-5451"
   IDEAS/RePEc      : "https://ideas.repec.org/f/pzh471.html"
   Scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57191834656"
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   SSRN             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1889246"
   tumblr           :
   twitter          : 
