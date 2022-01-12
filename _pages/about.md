@@ -19,5 +19,5 @@ Research Interests
 
 Publication list
 ------
-Please check my publication record: [HERE](https://lzhanghk.wixsite.com/econ/articles)
+Please check my publication record through my [Personal Webpage](https://lzhanghk.wixsite.com/econ/articles) or [CityU Scholar](https://scholars.cityu.edu.hk/en/persons/lin-zhang(82d36211-2260-4aa7-9419-aa6e663fdaf6)/publications.html)
 
