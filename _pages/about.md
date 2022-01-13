@@ -34,4 +34,4 @@ Awards
 
 个人公众号
 ------
-<img src="/images/qrcode.jpg" alt="wechat qrcode">
+<img src="/main/images/qrcode.jpg" alt="wechat qrcode">
