@@ -34,4 +34,4 @@ Awards
 
 个人公众号
 ------
-<img src="main/images/qrcode.jpg" alt="Official wechat account">
+<img src="https://github.com/zhangecon/main/tree/master/images/qrcode.jpg" alt="Official wechat account">
