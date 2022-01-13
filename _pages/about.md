@@ -34,4 +34,4 @@ Awards
 
 个人公众号
 ------
-
+teaser  : qrcode.jpg
