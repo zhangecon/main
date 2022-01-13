@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : "https://zhangecon.github.io/main"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "main"
-teaser                   : "qrcode.jpg"
+teaser                   : 
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
