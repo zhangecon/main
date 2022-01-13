@@ -35,3 +35,4 @@ Awards
 个人公众号
 ------
 teaser  : qrcode.jpg
+<img src="main/images/qrcode.jpg" alt="Image description">
