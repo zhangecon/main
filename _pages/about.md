@@ -21,3 +21,13 @@ Publication list
 ------
 Please check my full publication record through my [Personal Webpage](https://lzhanghk.wixsite.com/econ/articles) or [CityU Scholar](https://scholars.cityu.edu.hk/en/persons/lin-zhang(82d36211-2260-4aa7-9419-aa6e663fdaf6)/publications.html)
 
+Awards
+------
+* 2021 Outstanding paper award at Global paper competition on Sustainable Paths Toward Carbon Neutrality
+* 2021 Certificate of Merit for papers selected by The Hong Kong Institution of Engineers (HKIE)
+* 2020 Top 2% most highly cited scientists by Stanford University
+* 2018 Outstanding reviewer for Journal of Environmental Management
+* 2017 Outstanding reviewer for Economic Modelling
+* 2014 Best doctoral thesis by Swiss Association of Energy Economics
+* 2014 Fellow of the UBS International Center of Economics in Society 
+* 2011 Young economist nominated by OFID (The OPEC Fund for International Development) for 4th Lindau Nobel Laureate Meeting on Economic Sciences
