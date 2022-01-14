@@ -33,7 +33,7 @@ Please check my full publication record through my [Personal Webpage](https://lz
   *  L. Zhang (2019): [Win the trade war and lose the world? Why US and China need to focus on war against climate change](https://www.scmp.com/comment/letters/article/2180347/win-trade-war-and-lose-world-why-us-and-china-need-focus-war-against). South China Morning Post, 2019-01-03.
  
 * Book:
-  *〔瑞士〕卢卡斯·布雷斯彻　著 /张林 等 译：绿化经济与构建可持续社会———向可持续发展转型的挑战与应变。北京大学出版社，ISBN 978-7-301-30395-5.
+  * 〔瑞士〕卢卡斯·布雷斯彻　著 /张林 等 译：绿化经济与构建可持续社会———向可持续发展转型的挑战与应变。北京大学出版社，ISBN 978-7-301-30395-5.
 
 Awards
 ------
