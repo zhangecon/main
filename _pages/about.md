@@ -29,6 +29,7 @@ Please check my full publication record through my [Personal Webpage](https://lz
   * M. Filippini and L. Zhang (2016): [Estimation of the energy efficiency in Chinese provinces](http://link.springer.com/article/10.1007/s12053-016-9425-z). Energy Efficiency, 9(6), 1315-1328.
 
 * Media:
+  *  Bangzhu Zhu and Lin Zhang (2020): [COVID-19 Induces Emissions Cut and the Development of the Digital Economy](https://www.iaee.org/en/publications/newsletterdl.aspx?id=882). IAEE Energy Forum, COVID-19 Speicial Issue 2020, p43.
   *  J. Shang and L. Zhang (2019): [In the fight against climate change, hydrogen could be the answer to Hong Kong’s quest for greener fuel](https://www.scmp.com/comment/letters/article/3029939/fight-against-climate-change-hydrogen-could-be-answer-hong-kongs). South China Morning Post, 2019-09-24.
   *  L. Zhang (2019): [Win the trade war and lose the world? Why US and China need to focus on war against climate change](https://www.scmp.com/comment/letters/article/2180347/win-trade-war-and-lose-world-why-us-and-china-need-focus-war-against). South China Morning Post, 2019-01-03.
  
