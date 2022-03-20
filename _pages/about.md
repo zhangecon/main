@@ -21,15 +21,15 @@ Publication list
 ------
 Please check my full publication record through my [Personal Webpage](https://lzhanghk.wixsite.com/econ/publications) or [CityU Scholar](https://scholars.cityu.edu.hk/en/persons/lin-zhang(82d36211-2260-4aa7-9419-aa6e663fdaf6)/publications.html)
 
-* Representative peer-reviewed article:
+* Representative peer-reviewed articles:
   * Y. Yao, L. Zhang, R. Salim, S. Rafiq (2021): [The effect of human capital on CO2 emissions: Macro evidence from China](https://doi.org/10.5547/01956574.42.6.YYAO). The Energy Journal, 42(6), 67-96. 
   * C. Karydas and L. Zhang (2019): [Green tax reform, endogenous innovation and the growth dividend](https://doi.org/10.1016/j.jeem.2017.09.005). Journal of Environmental Economics and Management, 97, 158-181.
   * L. Bretschger, F. Lechthaler, S. Rausch and L. Zhang (2017): [Knowledge diffusion, endogenous growth and the costs of global climate policy](http://dx.doi.org/10.1016/j.euroecorev.2016.11.012). European Economic Review, 93, 47-72.
   * L. Zhang (2017): [Correcting the uneven burden sharing of emission reduction across provinces in China](https://doi.org/10.1016/j.eneco.2017.04.005). Energy Economics, 64, 335-345.
-  * M. Filippini and L. Zhang (2016): [Estimation of the energy efficiency in Chinese provinces](http://link.springer.com/article/10.1007/s12053-016-9425-z). Energy Efficiency, 9(6), 1315-1328.
+  * L. Zhang (2017): [The knowledge spillover effects of FDI on the productivity and efficiency of research activities in China](http://dx.doi.org/10.1016/j.chieco.2016.11.001). China Economic Review. 42, 1-14.
 
-* Media:
-  *  Bangzhu Zhu and Lin Zhang (2020): [COVID-19 Induces Emissions Cut and the Development of the Digital Economy](https://www.iaee.org/en/publications/newsletterdl.aspx?id=882). IAEE Energy Forum, COVID-19 Speicial Issue 2020, p43.
+* Non-peer-reviewed Media articles:
+  *  B. Zhu and L. Zhang (2020): [COVID-19 Induces Emissions Cut and the Development of the Digital Economy](https://www.iaee.org/en/publications/newsletterdl.aspx?id=882). IAEE Energy Forum, COVID-19 Speicial Issue 2020, p43.
   *  J. Shang and L. Zhang (2019): [In the fight against climate change, hydrogen could be the answer to Hong Kong’s quest for greener fuel](https://www.scmp.com/comment/letters/article/3029939/fight-against-climate-change-hydrogen-could-be-answer-hong-kongs). South China Morning Post, 2019-09-24.
   *  L. Zhang (2019): [Win the trade war and lose the world? Why US and China need to focus on war against climate change](https://www.scmp.com/comment/letters/article/2180347/win-trade-war-and-lose-world-why-us-and-china-need-focus-war-against). South China Morning Post, 2019-01-03.
  
