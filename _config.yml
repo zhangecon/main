@@ -177,7 +177,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/https://github.com/zhangecon/main/blob/0868acda7f84c011fd50cc6690c444e879e7abc2/_publications/2009-10-01-paper-title-number-1.md
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
