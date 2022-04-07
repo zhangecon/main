@@ -38,6 +38,7 @@ Please check my full publication record through my [Personal Webpage](https://lz
 
 Awards
 ------
+* 2022 Honorable Mention Award for the CPSG Inaugural Best Policy Research Article Award
 * 2021 Outstanding paper award at Global paper competition on Sustainable Paths Toward Carbon Neutrality
 * 2021 Certificate of Merit for papers selected by The Hong Kong Institution of Engineers (HKIE)
 * 2020 Top 2% most highly cited scientists by Stanford University
