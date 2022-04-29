@@ -22,6 +22,7 @@ Publication list
 Please check my full publication record through my [Personal Webpage](https://lzhanghk.wixsite.com/econ/publications) or [CityU Scholar](https://scholars.cityu.edu.hk/en/persons/lin-zhang(82d36211-2260-4aa7-9419-aa6e663fdaf6)/publications.html)
 
 * Representative peer-reviewed articles:
+  * Y. Lu and L. Zhang (2022): [National mitigation policy and the competitiveness of Chinese firms](https://doi.org/10.1016/j.eneco.2022.105971). Energy Economics, 109, 105971. 
   * Y. Yao, L. Zhang, R. Salim, S. Rafiq (2021): [The effect of human capital on CO2 emissions: Macro evidence from China](https://doi.org/10.5547/01956574.42.6.YYAO). The Energy Journal, 42(6), 67-96. 
   * C. Karydas and L. Zhang (2019): [Green tax reform, endogenous innovation and the growth dividend](https://doi.org/10.1016/j.jeem.2017.09.005). Journal of Environmental Economics and Management, 97, 158-181.
   * L. Bretschger, F. Lechthaler, S. Rausch and L. Zhang (2017): [Knowledge diffusion, endogenous growth and the costs of global climate policy](http://dx.doi.org/10.1016/j.euroecorev.2016.11.012). European Economic Review, 93, 47-72.
