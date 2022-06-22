@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Lin Zhang is an Associate Professor (tenured) in the School of Energy and Environment at [City University of Hong Kong](https://scholars.cityu.edu.hk/en/persons/lin-zhang(82d36211-2260-4aa7-9419-aa6e663fdaf6).html), the Director of Laboratory for Energy Economics and Environmental Management, a co-investigator at The Guy Carpenter Asia-Pacific Climate Impact Centre, a jointly-appointed faculty at the Department of Public Policy, and a member of the Hong Kong Institute for Clean Energy (HKICE) and Laboratory for Public Management & Policy. His primary research focuses on energy and sustainability economics. In his ultimate pursuit of regional sustainable development, his work utilizes economic methods to seek policy solutions to energy and environmental sustainability from interdisciplinary lenses. He has also extended research interests into issues related to business and urban sustainability. Dr. Zhang received double bachelors in mechnical engineering and economics from [Peking University](https://english.pku.edu.cn/), MSc and PhD in economics from [ETH Zurich](https://ethz.ch/en.html).
+Dr. Lin Zhang is an Associate Professor (with tenure) in the School of Energy and Environment at [City University of Hong Kong](https://scholars.cityu.edu.hk/en/persons/lin-zhang(82d36211-2260-4aa7-9419-aa6e663fdaf6).html), the Director of Laboratory for Energy Economics and Environmental Management, a co-investigator at The Guy Carpenter Asia-Pacific Climate Impact Centre, a jointly-appointed faculty at the Department of Public Policy, and a member of the Hong Kong Institute for Clean Energy (HKICE) and Laboratory for Public Management & Policy. His primary research focuses on energy and sustainability economics. In his ultimate pursuit of regional sustainable development, his work utilizes economic methods to seek policy solutions to energy and environmental sustainability from interdisciplinary lenses. He has also extended research interests into issues related to business and urban sustainability. Dr. Zhang received double bachelors in mechnical engineering and economics from [Peking University](https://english.pku.edu.cn/), MSc and PhD in economics from [ETH Zurich](https://ethz.ch/en.html).
 
 Research Interests
 ------
@@ -16,10 +16,11 @@ Research Interests
 * Policy for Sustainable Resource Use 
 * Green Business & Finance
 * Economic Development under Climate Risks
+* Corporate Strategy for Sustainability
 
 Publication list
 ------
-Please check my full publication record through my [Personal Webpage](https://lzhanghk.wixsite.com/econ/publications) or [CityU Scholar](https://scholars.cityu.edu.hk/en/persons/lin-zhang(82d36211-2260-4aa7-9419-aa6e663fdaf6)/publications.html)
+Please check my complete publication record through my [Personal Webpage](https://lzhanghk.wixsite.com/econ/publications) or [CityU Scholar](https://scholars.cityu.edu.hk/en/persons/lin-zhang(82d36211-2260-4aa7-9419-aa6e663fdaf6)/publications.html)
 
 * Representative peer-reviewed articles:
   * Y. An and L. Zhang (2023): [The Thirst for Power: The Impacts of Water Availability on Electricity Generation in China](https://doi.org/10.5547/01956574.44.2.yaan). The Energy Journal, 44(2), 205-240. 
