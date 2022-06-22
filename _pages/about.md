@@ -16,7 +16,7 @@ Research Interests
 * Policy for Sustainable Resource Use 
 * Green Business & Finance
 * Economic Development under Climate Risks
-* Corporate Strategy for Sustainability
+* Corporate Strategy for Sustainability and Strategic Management
 
 Publication list
 ------
