@@ -23,9 +23,9 @@ Research Interests
 
 Publication list
 ------
-Please check my complete publication record through my [Personal Webpage](https://lzhanghk.wixsite.com/econ/publications) or [CityU Scholar](https://scholars.cityu.edu.hk/en/persons/lin-zhang(82d36211-2260-4aa7-9419-aa6e663fdaf6)/publications.html)
+Please check my complete publication record through my [Personal Webpage](https://lzhanghk.wixsite.com/econ/myresearch) or [CityU Scholar](https://scholars.cityu.edu.hk/en/persons/lin-zhang(82d36211-2260-4aa7-9419-aa6e663fdaf6)/publications.html)
 
-* **Representative articles in the past five years**:
+* **Five Representative peer-reviewed articles**:
   * Yao An and Lin Zhang (2023): The Thirst for Power: The Impacts of Water Availability on Electricity Generation in China. *The Energy Journal*, 44(2), 205-240. <sup>[Link](https://doi.org/10.5547/01956574.44.2.yaan)</sup>
   * Yao Yao, Xue Li, Russell Smyth, Lin Zhang (2022): Air pollution and political trust in local government: Evidence from China. *Journal of Environmental Economics and Management*, 115, 102724. <sup>[Link](https://doi.org/10.1016/j.jeem.2022.102724)</sup>
   * Christos Karydas and Lin Zhang (2019): Green tax reform, endogenous innovation and the growth dividend. *Journal of Environmental Economics and Management*, 97, 158-181.  <sup>[Link](https://doi.org/10.1016/j.jeem.2017.09.005)</sup>
