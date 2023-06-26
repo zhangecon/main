@@ -15,10 +15,9 @@ Dr. Lin Zhang is an Associate Professor (with tenure) at [City University of Hon
 Research Interests
 ------
 * **Subjects covered in my work**:
-  * Energy & Sustainability Economics
-  * Green Business & Finance
-  * Economic Development under Climate Risks
-  * Corporate Strategy for Sustainability 
+  * Energy & Sustainability Economics (with particular interests in energy transition and carbon neutrality)
+  * Green Business & Finance (with particular interests in corporate strategy for sustainability and resource use)
+  * Sustainable Economic Development (with particular interests in green growth and growth under climate Risks)
 
 * **Methods used in my work**:
   * Macro: Growth Theory, CGE, Data Envelopment Analysis
