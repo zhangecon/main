@@ -25,7 +25,7 @@ Publication list
 ------
 Please check my complete publication record through my [Personal Webpage](https://lzhanghk.wixsite.com/econ/publications) or [CityU Scholar](https://scholars.cityu.edu.hk/en/persons/lin-zhang(82d36211-2260-4aa7-9419-aa6e663fdaf6)/publications.html)
 
-* Representative articles in the past five years:
+* **Representative articles in the past five years**:
   * Yao An and Lin Zhang (2023): The Thirst for Power: The Impacts of Water Availability on Electricity Generation in China. *The Energy Journal*, 44(2), 205-240. <sup>[Link](https://doi.org/10.5547/01956574.44.2.yaan)</sup>
   * Yao Yao, Xue Li, Russell Smyth, Lin Zhang (2022): Air pollution and political trust in local government: Evidence from China. *Journal of Environmental Economics and Management*, 115, 102724. <sup>[Link](https://doi.org/10.1016/j.jeem.2022.102724)</sup>
   * Christos Karydas and Lin Zhang (2019): Green tax reform, endogenous innovation and the growth dividend. *Journal of Environmental Economics and Management*, 97, 158-181.  <sup>[Link](https://doi.org/10.1016/j.jeem.2017.09.005)</sup>
@@ -33,15 +33,15 @@ Please check my complete publication record through my [Personal Webpage](https:
   * L. Zhang (2017): Correcting the uneven burden sharing of emission reduction across provinces in China. *Energy Economics*, 64, 335-345. <sup>[Link](https://doi.org/10.1016/j.eneco.2017.04.005)</sup>
 
 
-* Non-peer-reviewed Media articles:
+* **Non-peer-reviewed Media articles**:
   *  L. Zhang (2022): Hong Kong’s Fight for Climate Change: Facts, Challenges, and Opportunities. *IAEE Energy Forum*, 3rd Quarter 2022, p8-9. <sup>[Link](https://www.iaee.org/en/publications/newsletterdl.aspx?id=1027)</sup>
   *  B. Zhu and L. Zhang (2020): COVID-19 Induces Emissions Cut and the Development of the Digital Economy. *IAEE Energy Forum*, COVID-19 Special Issue 2020, p43. <sup>[Link](https://www.iaee.org/en/publications/newsletterdl.aspx?id=882)</sup>
   *  J. Shang and L. Zhang (2019): In the fight against climate change, hydrogen could be the answer to Hong Kong’s quest for greener fuel. *South China Morning Post*, 2019-09-24. <sup>[Link](https://www.scmp.com/comment/letters/article/3029939/fight-against-climate-change-hydrogen-could-be-answer-hong-kongs)</sup>
   *  L. Zhang (2019): Win the trade war and lose the world? Why US and China need to focus on war against climate change. *South China Morning Post*, 2019-01-03. <sup>[Link](https://www.scmp.com/comment/letters/article/2180347/win-trade-war-and-lose-world-why-us-and-china-need-focus-war-against)</sup>
  
-* 中文代表作：
-  * 著作：〔瑞士〕卢卡斯·布雷斯彻　著 /张林 等 译：绿化经济与构建可持续社会———向可持续发展转型的挑战与应变。北京大学出版社，ISBN 978-7-301-30395-5.
-  * 论文： 靳玮, 王弟海, 张林：《碳中和背景下的中国经济低碳转型：特征事实与机制分析》，经济研究， 2022（12），87-103.
+* **中文代表作**：
+  * 著作：〔瑞士〕卢卡斯·布雷斯彻　著 /张林 等 译：绿化经济与构建可持续社会———向可持续发展转型的挑战与应变。北京大学出版社，ISBN 978-7-301-30395-5. <sup>[Link](https://www.pup.cn/bookDetail?name=%25E7%25BB%25BF%25E5%258C%2596%25E7%25BB%258F%25E6%25B5%258E%25E4%25B8%258E%25E6%259E%2584%25E5%25BB%25BA%25E5%258F%25AF%25E6%258C%2581%25E7%25BB%25AD%25E7%25A4%25BE%25E4%25BC%259A%25E2%2580%2594%25E2%2580%2594%25E5%2590%2591%25E5%258F%25AF%25E6%258C%2581%25E7%25BB%25AD%25E5%258F%2591%25E5%25B1%2595%25E8%25BD%25AC%25E5%259E%258B%25E7%259A%2584%25E6%258C%2591%25E6%2588%2598%25E4%25B8%258E%25E5%25BA%2594%25E5%258F%2598%25EF%25BC%2588%25E7%25AC%25AC2%25E7%2589%2588%25EF%25BC%2589&id=86696ce974234ef996fdebf14a15d06a&0.4406912476283802)</sup>
+  * 论文： 靳玮, 王弟海, 张林：《碳中和背景下的中国经济低碳转型：特征事实与机制分析》，经济研究， 2022（12），87-103. <sup>[Link](http://www.erj.cn/cn/mlInfo.aspx?m=20220309094605133049&n=20230222141748827740&tip=1)</sup>
 
 Awards
 ------
