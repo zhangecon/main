@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Lin Zhang is an Associate Professor (with tenure) in the School of Energy and Environment at [City University of Hong Kong](https://scholars.cityu.edu.hk/en/persons/lin-zhang(82d36211-2260-4aa7-9419-aa6e663fdaf6).html), the Director of Laboratory for Energy Economics and Environmental Management, a co-investigator at The Guy Carpenter Asia-Pacific Climate Impact Centre, a jointly-appointed faculty at the Department of Public Policy, and a member of the Hong Kong Institute for Clean Energy (HKICE) and Laboratory for Public Management & Policy. His primary research focuses on energy and sustainability economics. In his ultimate pursuit of regional sustainable development, his work utilizes economic methods to seek policy solutions to energy and environmental sustainability from interdisciplinary lenses. He has also extended research interests into issues related to business and urban sustainability. Dr. Zhang received bachelor degrees from [Peking University](https://english.pku.edu.cn/), PhD in economics from [ETH Zurich](https://ethz.ch/en.html). Dr. Zhang has recently been elected as a council member of [International Association for Energy Economics (IAEE)](https://www.iaee.org/index.aspx). Dr. Zhang has again been ranked among the world’s top 2% scientists in the newly released metrics compiled by Stanford University in 2022.
+Dr. Lin Zhang is an Associate Professor (with tenure) at [City University of Hong Kong](https://scholars.cityu.edu.hk/en/persons/lin-zhang(82d36211-2260-4aa7-9419-aa6e663fdaf6).html). His primary research focuses on energy and sustainability economics. In his ultimate pursuit of regional sustainable development, his work utilizes economic methods to seek policy solutions to energy and environmental sustainability from interdisciplinary lenses. He has also extended his research interests into business and urban sustainability issues. Dr. Zhang received bachelor's degrees from [Peking University](https://english.pku.edu.cn/), PhD in economics from [ETH Zurich](https://ethz.ch/en.html). Dr. Zhang has recently been elected as a council member of the [International Association for Energy Economics (IAEE)](https://www.iaee.org/index.aspx). Dr. Zhang has again been ranked among the world’s top 2% scientists in the newly released metrics compiled by Stanford University in 2021 & 2022.
+
+张林博士，香港城市大学长聘副教授（终身教职）[1](https://scholars.cityu.edu.hk/en/persons/lin-zhang(82d36211-2260-4aa7-9419-aa6e663fdaf6).html)。国际能源经济学会（IAEE）理事会理事[2](https://www.iaee.org/en/inside/council.aspx)；香港旅游局国际会议大使[3](https://mehongkong.com/hkca/tc/ambassadors.html)。曾任瑞士苏黎世联邦理工经济研究中心高级研究员，瑞士能源研究中心、数值模拟实验室顾问研究员。于2021和2022年入选斯坦福大学发布的全球前2%顶尖科学家榜单[4](https://www.cityu.edu.hk/media/news/2021/09/15/cityu-excels-global-top-scientists-list) [5](https://www.cityu.edu.hk/see/outreach/news-center/fifteen-see-faculty-members-are-listed-among-top-2-worlds-most-highly-cited)。 获得香港杰出青年学者计划基金（2017/18）[5](https://www.ugc.edu.hk/chs/rgc/funding_opport/ecs/funded_research.html)，瑞士能源经济协会优秀博士论文奖（2015）[6](https://saee.ch/saee-student-awards/),中国国家优秀自费留学生奖学金（2013）[7](https://news.sciencenet.cn/htmlnews/2014/1/287527.shtm)。长期从事能源及可持续经济学的研究工作，擅长运用经济学、运筹学、数理统计等多学科交叉的理论方法研究经济中与能源转型、可持续发展、气候变化、碳中和等相关的实际问题和相关政策。
 
 Research Interests
 ------
@@ -37,8 +39,9 @@ Please check my complete publication record through my [Personal Webpage](https:
   *  J. Shang and L. Zhang (2019): [In the fight against climate change, hydrogen could be the answer to Hong Kong’s quest for greener fuel](https://www.scmp.com/comment/letters/article/3029939/fight-against-climate-change-hydrogen-could-be-answer-hong-kongs). South China Morning Post, 2019-09-24.
   *  L. Zhang (2019): [Win the trade war and lose the world? Why US and China need to focus on war against climate change](https://www.scmp.com/comment/letters/article/2180347/win-trade-war-and-lose-world-why-us-and-china-need-focus-war-against). South China Morning Post, 2019-01-03.
  
-* Book:
-  * 〔瑞士〕卢卡斯·布雷斯彻　著 /张林 等 译：绿化经济与构建可持续社会———向可持续发展转型的挑战与应变。北京大学出版社，ISBN 978-7-301-30395-5.
+* 中文代表作：
+  * 著作：〔瑞士〕卢卡斯·布雷斯彻　著 /张林 等 译：绿化经济与构建可持续社会———向可持续发展转型的挑战与应变。北京大学出版社，ISBN 978-7-301-30395-5.
+  * 论文： 靳玮, 王弟海, 张林 （2022）：《碳中和背景下的中国经济低碳转型：特征事实与机制分析》，经济研究， 2022（12），87-103.
 
 Awards
 ------
