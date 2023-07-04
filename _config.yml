@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Lin Zhang"
+title                    : "Prof. Dr. Lin Zhang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
