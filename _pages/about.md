@@ -27,7 +27,7 @@ Please check my complete publication record through my [Personal Webpage](https:
 
 * **Ten Representative peer-reviewed articles**:
   * Wei Jin, Frederick van der Ploeg, and Lin Zhang (2024): How Clean Capital Slows Down Disinvestment of Carbon-Intensive Capital in the Low-Carbon Transition. *Journal of Economic Dynamics and Control*, 162, 104857. <sup>[Link](https://doi.org/10.1016/j.jedc.2024.104857)</sup>
-  * Xiaojun Yu, Qiang Li, Lin Zhang (2024): Major government customer and corporate environmental responsibility: Evidence from China. *Journal of Business Research*, 183, 114853 <sup>[Link]https://doi.org/10.1016/j.jbusres.2024.114853)</sup>
+  * Xiaojun Yu, Qiang Li, Lin Zhang (2024): Major government customer and corporate environmental responsibility: Evidence from China. *Journal of Business Research*, 183, 114853 <sup>[Link](https://doi.org/10.1016/j.jbusres.2024.114853)</sup>
   * Yao An and Lin Zhang (2023): The Thirst for Power: The Impacts of Water Availability on Electricity Generation in China. *The Energy Journal*, 44(2), 205-240. <sup>[Link](https://doi.org/10.5547/01956574.44.2.yaan)</sup>
   * Hongyan Zhang & Lin Zhang (2023): Public support and energy innovation: Why do firms react differently? *Energy Economics*, 119, 106528. <sup>[Link](https://doi.org/10.1016/j.eneco.2023.106528)</sup>
   * Yao Yao, Xue Li, Russell Smyth, Lin Zhang (2022): Air pollution and political trust in local government: Evidence from China. *Journal of Environmental Economics and Management*, 115, 102724. <sup>[Link](https://doi.org/10.1016/j.jeem.2022.102724)</sup>
