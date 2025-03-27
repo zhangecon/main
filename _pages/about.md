@@ -50,15 +50,15 @@ Please check my complete publication record through my [Personal Webpage](https:
   * 论文： 张林，安瑶，喻筱珺，方琳：《城市工业环境治理和企业效益：源头预防和末端治理的宏微观影响》，管理评论，35（8），31-42，2024. <sup>[Link](http://123.57.61.11/jweb_glpl/CN/Y2023/V35/I8/31)</sup>
 
 * **Media Interviews/Talks/Podcasts**:
-  * Is your cooking stove a climate problem? *CGTN‘s "Climate Watch" Podcast*. <sup>[Link](https://radio.cgtn.com/podcast/news/5/Is-your-cooking-stove-a-climate-problem/2715163)</sup>
-  * The development of China's green finance. *IAEE Podcast*. <sup>[Link](https://www.iaee.org/audio/zhang2/zhang2.mp3)</sup>
-  * COVID-19 is changing the emission trajectories in China and at the global level. *IAEE Podcast*. <sup>[Link](https://www.iaee.org/audio/zhang/LinZhang-podcast.mp3)</sup>
-  * Climate Risks and Corporate Carbon Strategies. *IAEE Webinar*. <sup>[Link](https://www.iaee.org/en/webinars/webinar_zhang6.aspx)</sup>
-  * Climate Policy and Governance of Carbon Neutrality. *IAEE Webinar*. <sup>[Link](https://www.iaee.org/en/webinars/webinar_zhang5.aspx)</sup>
-  * The Thirst for Power: the Nexus on Climate Change, Water Scarcity, and Electricity Outage. <sup>[Link](https://www.iaee.org/en/webinars/webinar_zhang4.aspx)</sup>
-  * Reforming China's Electricity Sector: The Potential Gains and Pitfalls. <sup>[Link](https://www.iaee.org/en/webinars/webinar_zhang3.aspx)</sup>
-  * Energy Transition in China: Technology, Policy, and Society. <sup>[Link](https://www.iaee.org/en/webinars/webinar_zhang2.aspx)</sup>
-  * Moving Green: Opportunities and Challenges of China's Recovery Plan. <sup>[Link](https://www.iaee.org/en/webinars/webinar_zhang.aspx)</sup> 
+  * Is your cooking stove a climate problem? - *CGTN‘s "Climate Watch" Podcast*. <sup>[Link](https://radio.cgtn.com/podcast/news/5/Is-your-cooking-stove-a-climate-problem/2715163)</sup>
+  * The development of China's green finance. - *IAEE Podcast*. <sup>[Link](https://www.iaee.org/audio/zhang2/zhang2.mp3)</sup>
+  * COVID-19 is changing the emission trajectories in China and at the global level. - *IAEE Podcast*. <sup>[Link](https://www.iaee.org/audio/zhang/LinZhang-podcast.mp3)</sup>
+  * Climate Risks and Corporate Carbon Strategies. - *IAEE Webinar*. <sup>[Link](https://www.iaee.org/en/webinars/webinar_zhang6.aspx)</sup>
+  * Climate Policy and Governance of Carbon Neutrality. - *IAEE Webinar*. <sup>[Link](https://www.iaee.org/en/webinars/webinar_zhang5.aspx)</sup>
+  * The Thirst for Power: the Nexus on Climate Change, Water Scarcity, and Electricity Outage. - *IAEE Webinar*. <sup>[Link](https://www.iaee.org/en/webinars/webinar_zhang4.aspx)</sup>
+  * Reforming China's Electricity Sector: The Potential Gains and Pitfalls. - *IAEE Webinar*. <sup>[Link](https://www.iaee.org/en/webinars/webinar_zhang3.aspx)</sup>
+  * Energy Transition in China: Technology, Policy, and Society. - *IAEE Webinar*. <sup>[Link](https://www.iaee.org/en/webinars/webinar_zhang2.aspx)</sup>
+  * Moving Green: Opportunities and Challenges of China's Recovery Plan. - *IAEE Webinar*. <sup>[Link](https://www.iaee.org/en/webinars/webinar_zhang.aspx)</sup> 
 
 Awards
 ------
